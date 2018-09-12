@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\bocar19\documents\visual studio 2017\linked_bag\linked_bag\main.cpp(68): warning C4101: 'userChoice': unreferenced local variable
+  Linked_Bag.vcxproj -> C:\Users\bocar19\Documents\Visual Studio 2017\Linked_Bag\Debug\Linked_Bag.exe

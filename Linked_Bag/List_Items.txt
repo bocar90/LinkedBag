@@ -1,0 +1,10 @@
+Textbooks
+Pens
+Pencil
+Eraser
+Calculator
+Stapler
+Laptop
+Mouse
+Flash-drive
+Cell-phone
